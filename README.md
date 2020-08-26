@@ -1,6 +1,9 @@
-<p align="center"><img src="https://i.redd.it/zivfevghgiox.jpg"></p>
+<p align="center"><img src="https://i.redd.it/zivfevghgiox.jpg" width="600"></p>
 
-# SpaceX-Dash-AppSpaceX Data App built using Dash
+
+<h1 align="center">SpaceX Dash App</h1>
+<h3 align="center">
+SpaceX Data App built using Dash
 </h3>
 
 <p align="center">
