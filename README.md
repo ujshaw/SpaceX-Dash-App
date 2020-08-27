@@ -2,9 +2,6 @@
 
 
 <h1 align="center">SpaceX Dash App</h1>
-<h3 align="center">
-SpaceX Data App built using Dash
-</h3>
 
 <p align="center">
 <a href="https://github.com/ujshaw/SpaceX-Dash-App"><img src="https://img.shields.io/badge/Python-v3.8.1-blue?style=for-the-badge&logo=python"></a>
