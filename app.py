@@ -87,10 +87,11 @@ app.layout = html.Div(
                                 html.Div(
                                     id="parallax",
                                     className="background",
-                                    style= {'background-image':'url("/assets/images/FH_7.jpg")','visibility':'inherit','opacity':'1'}
+                                    style= {'transform':'translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotate3d(0, 0, 0.75, 0deg)','background-image':'url("/assets/images/FH_7.jpg")','visibility':'inherit','opacity':'1'}
                                 ),
                                 html.Div(
                                     className="section-inner feature",
+                                    id="opacity",
                                     style={'height':'790px'},
                                     children=[
                                         html.Div(
