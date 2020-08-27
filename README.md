@@ -3,6 +3,13 @@
 
 <h1 align="center">🚀 SpaceX Dash App 🚀</h1>
 
+<h4 align="center">
+  <i>
+    SpaceX-Dash-App is defined for viewing information about upcoming and completed SpaceX missions, rockets and more.The site was built using Python and Dash by plotly.
+  </i>
+</h4>
+<h4 align="center"><img src="https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge&logo=github"></h4>
+
 <p align="center">
 <a href="https://github.com/ujshaw/SpaceX-Dash-App"><img src="https://img.shields.io/badge/Python-v3.8.1-blue?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/ujshaw/SpaceX-Dash-App/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/ujshaw/SpaceX-Dash-App?color=red&style=for-the-badge"></a>
