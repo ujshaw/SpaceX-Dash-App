@@ -5,7 +5,7 @@
 
 <h4 align="center">
   <i>
-    SpaceX-Dash-App is defined for viewing information about upcoming and completed SpaceX missions, rockets and more.The site was built using Python and Dash by plotly.
+    SpaceX-Dash-App is designed for viewing information about upcoming and completed SpaceX missions, rockets and more in the style you know and love.The site was built using Python and Dash by plotly.
   </i>
 </h4>
 <h4 align="center"><img src="https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge&logo=github"></h4>
