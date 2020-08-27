@@ -8,8 +8,7 @@ SpaceX Data App built using Dash
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jaeden-shaw-987a56121"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555"></a>
-<img alt="GitHub" src="https://img.shields.io/github/license/ujshaw/SpaceX-Dash-App?color=red&style=for-the-badge">
-
+![GitHub](https://img.shields.io/github/license/ujshaw/SpaceX-Dash-App?color=red&style=for-the-badge)
 </p>
 
 <h4 align="center">
