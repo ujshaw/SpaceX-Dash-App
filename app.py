@@ -86,15 +86,27 @@ app.layout = html.Div(
                             children=[
                                 html.Div(
                                     id="parallax",
-                                    className="background background-video-cover",
-                                    style= {'transform':'translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotate3d(0, 0, 0.75, 0deg)','background-image':'url("https://www.spacex.com/static/images/backgrounds/starlink10.jpg")','visibility':'inherit','opacity':'1'}
+                                    className="background",
+                                    style= {'background-image':'url("/assets/images/FH_7.jpg")','visibility':'inherit','opacity':'1'}
                                 ),
                                 html.Div(
                                     className="section-inner feature",
                                     style={'height':'790px'},
                                     children=[
                                         html.Div(
-                                            className="inner-left-bottom"
+                                            className="inner-center",
+                                            children=[
+                                                html.H1(
+                                                    "TESTING",
+                                                    className="animate",
+                                                    style={'visibiility':'inherit','opacity':'1'}
+                                                ),
+                                                html.H3(
+                                                    "TESTING TESTING TESTING",
+                                                    className="animate",
+                                                    style={'visibiility':'inherit','opacity':'1'}
+                                                )
+                                            ]
                                         ),
                                         html.Div(
                                             id="scrollme"
@@ -108,7 +120,7 @@ app.layout = html.Div(
                             children=[
                                 html.Div(
                                     className="background",
-                                    style={'background-image':'url("https://www.spacex.com/static/images/backgrounds/starlink10.jpg")'}
+                                    style={'background-image':'url("/assets/images/dragon_feature.jpg")'}
                                 ),
                                 html.Div(
                                     className="section-inner resize",
