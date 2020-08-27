@@ -56,7 +56,7 @@ app.layout = html.Div(
                                     id="logo",
                                     href="/",
                                     children=[
-                                        html.Img(src="/assets/logo.png")
+                                        html.Img(src="/assets/images/logo.png")
                                     ]
                                 )
                             ]
