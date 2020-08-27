@@ -7,7 +7,7 @@ SpaceX Data App built using Dash
 </h3>
 
 <p align="center">
-<a><img src="hhttps://img.shields.io/badge/Python-v3.8.1-blue?style=for-the-badge&logo=python"></a>
+<a href="https://github.com/ujshaw/SpaceX-Dash-App"><img src="hhttps://img.shields.io/badge/Python-v3.8.1-blue?style=for-the-badge&logo=python"></a>
 
 <a href="https://github.com/ujshaw/SpaceX-Dash-App/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/ujshaw/SpaceX-Dash-App?color=red&style=for-the-badge"></a>
 
